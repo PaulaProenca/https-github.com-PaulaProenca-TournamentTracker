@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tracker_Library
+namespace Tracker_Library.Models
+
 {
     public class MatchupModel
     {

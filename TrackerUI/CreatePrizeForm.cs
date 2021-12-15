@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using Tracker_Library;
+using Tracker_Library.DataAccess;
+using Tracker_Library.Models;
 
 namespace TrackerUI
 {
